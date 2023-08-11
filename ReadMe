@@ -1,0 +1,15 @@
+The original datasets - 
+	transactions.csv.gz - The dataset is too big to be uploaded to canvas - This dataset can be downloaded from my drive at this link - https://drive.google.com/file/d/1GdBs_i2_Y4-5rLl-Q9M51TbEp0PMiH6z/view?usp=share_link 
+	offers.csv.gz, 
+	train.xlsx
+
+The preprocessed dataset - clustered_data_norm.csv 
+
+To preprocess the raw dataset, run preprocessing notebook but it would take almost an hour or more to complete. Sometimes the system might crash if the space is not sufficient. 
+Warning - The transactions.csv.gz is a very huge file and thats why it takes almost an hour to get processed because the unziped version is 22GB and zipped version is 3GB.
+
+So the pre-processed dataset is attached in this submission which can be used to run the purchase prediction notebook
+
+We have used overleaf to write the report 
+
+Overleaf Link to the report - https://www.overleaf.com/read/fmsdqwnzqttf 
